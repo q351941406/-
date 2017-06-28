@@ -6,8 +6,19 @@
 //  Copyright © 2017年 彩票. All rights reserved.
 //
 
-static NSString *const jgKey           = @"36e3881104d2e8217c80d565";// 极光
+static NSString *const jgKey           = @"aa344f40e0414bf431dc9f5b";// 极光
 static NSString *const appid           = @"c66app10";
+
+//剩下没用的私人key
+//nGC1HHHe
+//OHFd333D
+//hKxFTTTb
+//ds6jhhhp
+//i0ZYIIIn
+//ux2teeei
+//PWqjVVVW
+//A9fDVVVk
+//
 
 //开发者
 //北京-ios-无法无天  10:09:31

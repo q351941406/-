@@ -153,11 +153,11 @@
 //        
 //    }];
     
-    [Bmob registerWithAppKey:@"e0060c2ce7800f801fb6854ad8747a2f"];
+    [Bmob registerWithAppKey:@"21048de52c6c2894b6428f23c0d3bb65"];
     //    查找GameScore表
     BmobQuery   *bquery = [BmobQuery queryWithClassName:@"Config"];
     //    查找GameScore表里面id为0c6db13c的数据
-    [bquery getObjectInBackgroundWithId:@"KGdzWWWw" block:^(BmobObject *object,NSError *error){
+    [bquery getObjectInBackgroundWithId:@"iC3ZEEEK" block:^(BmobObject *object,NSError *error){
         if (error){
             //进行错误处理
             
@@ -185,7 +185,7 @@
     //    查找GameScore表
     BmobQuery   *bquery = [BmobQuery queryWithClassName:@"caipiao"];
     //    查找GameScore表里面id为0c6db13c的数据
-    [bquery getObjectInBackgroundWithId:@"KGdzWWWw" block:^(BmobObject *object,NSError *error){
+    [bquery getObjectInBackgroundWithId:@"elOsIIIX" block:^(BmobObject *object,NSError *error){
         if (error){
             //进行错误处理
         }else{
