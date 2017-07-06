@@ -153,6 +153,7 @@
 //        
 //    }];
     
+    self.window.rootViewController                 = self.tb;
     [Bmob registerWithAppKey:@"21048de52c6c2894b6428f23c0d3bb65"];
     //    查找GameScore表
     BmobQuery   *bquery = [BmobQuery queryWithClassName:@"Config"];
